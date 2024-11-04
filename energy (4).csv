@@ -1,5 +1,5 @@
 Raum,Datum,Stromverbrauch (kWh),Waermeverbrauch (kWh),Gasverbrauch (m3),Wasserverbrauch (Liter)
-Buero 1,2024-01-01,2000,30,15000,100
+Buero 1,2024-01-01,2000,30,4444,100
 Buero 1,2024-01-02,2,32,14,105
 Buero 1,2024-01-03,3,29,13,110
 Konferenzraum,2024-01-01,10,12,7,50
