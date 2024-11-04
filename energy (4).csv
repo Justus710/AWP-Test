@@ -1,0 +1,19 @@
+Raum,Datum,Stromverbrauch (kWh),Waermeverbrauch (kWh),Gasverbrauch (m3),Wasserverbrauch (Liter)
+Buero 1,2024-01-01,2000,30,15,100
+Buero 1,2024-01-02,2,32,14,105
+Buero 1,2024-01-03,3,29,13,110
+Konferenzraum,2024-01-01,10,12,7,50
+Konferenzraum,2024-01-02,12,14,6,55
+Konferenzraum,2024-01-03,9,11,8,60
+Lagerraum,2024-01-01,15,18,10,80
+Lagerraum,2024-01-02,17,20,11,85
+Lagerraum,2024-01-03,16,19,9,90
+Kantine,2024-01-01,50,60,35,200
+Kantine,2024-01-02,55,65,33,210
+Kantine,2024-01-03,52,63,36,220
+Serverraum,2024-01-01,10,120,60,150
+Serverraum,2024-01-02,50,125,58,160
+Serverraum,2024-01-03,98,115,62,155
+Werkstatt,2024-01-01,35,42,20,120
+Werkstatt,2024-01-02,38,45,18,125
+Werkstatt,2024-01-03,33,40,22,130
